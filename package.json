@@ -1,0 +1,30 @@
+{
+  "name": "ai-agent-task-manager",
+  "version": "1.0.0",
+  "description": "A CLI-based AI Agent for managing tasks using the OpenAI API and TypeScript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx tsx src/index.ts --no-warnings"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.3.0",
+    "lowdb": "^7.0.1",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/lowdb": "^1.0.15",
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "type": "module",
+  "volta": {
+    "node": "22.12.0"
+  }
+}

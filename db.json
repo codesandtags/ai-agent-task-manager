@@ -1,0 +1,62 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "buy groceries",
+      "dueDate": "2022-10-14T17:00:00",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "description": "love Churrita",
+      "dueDate": "2023-10-13",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "description": "Walk Isis",
+      "dueDate": "2023-10-26T22:00:00",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "description": "complete ai-agent",
+      "dueDate": "2023-10-25T15:30:00",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "description": "saludar a mis amigos",
+      "dueDate": "2023-10-14",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "description": "salir",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "description": "Pray, good sir or madam, what task doth thou wish to add?",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "description": "task count to ten",
+      "dueDate": "2025-01-01",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "description": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "completed": false,
+      "category": "Jokes"
+    },
+    {
+      "id": 10,
+      "description": "Alas, a task of unknown nature",
+      "dueDate": "undefined",
+      "completed": false
+    }
+  ]
+}
